@@ -10,13 +10,12 @@ for them to be approved depending on the time it was send at and if you were the
 physically.
 
 ### User story:
-* As a user, I can be able to see all post on my homepage
-* As a user,  I should signup/sign-in to clap or give my remark on a post
-* As a user, I should be able to specify which level I am on in developing(Junior, Intermediate or a senior)
-* As a user, I should be able to create my own post
-* As a user, I should be able to view my own profile with posts I have created
-* As a user, I should be able to search for any developer using DEV
-* As a user, I should be able to view other developers profile to get their contacts
+* As a student, I can be able to see all my weekly attendance
+* As a student,  I should signup/sign-in to send a request whether I am present or absent
+* As a student, I should be able to view my own profile
+* As a teacher, I should be able to send a link to invite a student to my class
+* As a teacher, I should be able to approve if a student is present or absent
+* As a teacher, I should be able to view a form of all my students
 
 ### Technologies Used
 
